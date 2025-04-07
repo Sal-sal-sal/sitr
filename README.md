@@ -1,6 +1,6 @@
 # Django Courses Project
 
-## Prerequisites
+## prepare
 
 - Python 3.11
 - pipenv (install using `pip install pipenv`)
